@@ -1,4 +1,4 @@
-# Movie-Ticket-Booking# Movie Ticket Booking Web App
+# Movie Ticket Booking Web App
 
 ## 📌 Project Overview
 This is a **full-stack movie ticket booking application** that allows users to register, log in, and book movie tickets seamlessly. The platform features a user-friendly UI with secure authentication and real-time booking functionality.
