@@ -60,8 +60,6 @@ This is a **full-stack movie ticket booking application** that allows users to r
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests. Any suggestions and improvements are welcome!
 
-## 📜 License
-This project is licensed under the MIT License.
 
 ---
 
